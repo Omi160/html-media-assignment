@@ -1,0 +1,7 @@
+HTML comment are very important for web developers. 
+it is not vissible in the web page but it help to keep explanation and note of that code, 
+making it easier and understand to readability.
+
+
+In the code h1 is the Visible content on the my web page.
+But P is not just becouse I use P for comment only <!-- >.
